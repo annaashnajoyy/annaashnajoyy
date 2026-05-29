@@ -4,19 +4,19 @@
 💻 Aspiring Software Developer  
 🌐 Exploring Cybersecurity, Networking, and Cloud Technologies
 
-# About Me ☺️
+### About Me ☺️
 
 - Working towards my first tech opportunity
 - Strengthening my DSA and Computer Networks fundamentals
 - Interested in understanding how systems work, communicate, and stay secure
 - Curious about emerging technologies and industry trends
 
-# Currently Working On ✨
+### Currently Working On ✨
 
 - Recently started learning **JavaScript** and practicing cybersecurity concepts through **TryHackMe**
 - Slowly but steadily building confidence through projects and hands-on practice
 
-# 💻Some Tools I Have Used and Learned
+### 💻Some Tools I Have Used and Learned
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="bash" width="45" height="45"/>
